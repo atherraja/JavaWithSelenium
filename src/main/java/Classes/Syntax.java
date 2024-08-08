@@ -3,11 +3,6 @@ package Classes;
 //Syntax
 public class Syntax
 {
-    // method name "DisplayMsg"
-    public void DisplayMsg()
-    {
-        System.out.println("Welcome to QA");
-    }
 
     //Main Method
     public static void main(String[] args)
